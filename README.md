@@ -4,4 +4,4 @@ PSP button tester and UMD dumper I wrote as my very first "homebrew" project bac
 
 It's written in Lua (more specifically LuaDev, a PSP Lua intepreter), which was the first language I ever learned on my own too.
 
-I remember it being so much fun. It's fantastic to look back and realize how much you've improved, and how little I knew back then about how far I'd get from that point forward. Programming is a truly beautiful profession and, to the eyes of many, an art.
+I remember it being so much fun. It's fantastic to look back and realize how much you've improved, and how little I knew back then about how far I'd get from that small urge to be different and creative. Programming is a truly beautiful profession and, to the eyes of many, an art.
